@@ -64,7 +64,7 @@ yyerror(char*s)
 }
 ```
 # Output
-![375297684-e96d9e10-5302-4a7f-b640-dd0d63148840](https://github.com/user-attachments/assets/c32640c0-ddc9-49f7-ae77-cba3b53faa2d)
+<img width="744" height="577" alt="Screenshot 2025-10-15 111227" src="https://github.com/user-attachments/assets/835302d5-152c-4164-ac79-8e668fc308df" />
 
 
 # Result
